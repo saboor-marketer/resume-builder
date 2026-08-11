@@ -135,6 +135,11 @@ Works in all modern browsers that support:
 
 This project is open source and available for personal and commercial use.
 
+# 👨‍💻 Authors
+
+- ***ABDUL SABOOR***
+---
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
